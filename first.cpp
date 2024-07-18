@@ -3,7 +3,7 @@
 int main()
 {
     int a,b
-    cout<<"enter two integers:";
+    cout<<"enter  integers:";
     cin>>a>>b;
     sum =a+b;
     cout<<sum;
